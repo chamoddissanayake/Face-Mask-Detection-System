@@ -1,0 +1,6 @@
+tensorflow
+imutils
+numpy
+matplotlib
+scikit-learn
+argparse
